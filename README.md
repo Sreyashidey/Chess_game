@@ -1,28 +1,24 @@
-# 🥁 Drum Kit
+# ♟️ Chess Game
 
-**Drum Kit** is a simple web-based musical instrument where users can play different drum sounds by clicking buttons or pressing specific keys on their keyboard. It provides an interactive way to enjoy drumming directly in the browser.
+This is a simple multiplayer chess game built with **Node.js** and **Socket.io**. Players can join the game and make moves in real-time.
 
 ## 🚀 Features
 
-- **Interactive Drum Kit:** Play drum sounds by clicking the on-screen buttons or pressing the corresponding keys (`w`, `a`, `s`, `d`, `j`, `k`, `l`).
-- **Keyboard Support:** Use your keyboard to trigger the drum sounds for a more immersive experience.
-- **Simple and Fun UI:** Clean and minimal design with visual feedback when buttons are pressed.
+- **Real-time Gameplay:** Players can make moves and see them reflected instantly on the board.
+- **Socket.io Integration:** Uses Socket.io for real-time communication between players.
+- **Basic Chess Rules:** Allows basic movement of chess pieces (without advanced rules like checkmate, castling, or en passant).
 
 ## 🛠️ Technologies Used
 
-- **HTML:** Structure of the app.
-- **CSS:** Basic styling for a visually appealing layout.
-- **JavaScript:** Handles button presses and keyboard events to play drum sounds.
+- **Node.js:** Server-side JavaScript runtime.
+- **Socket.io:** Library for real-time web applications.
+- **HTML/CSS:** Frontend technologies for building the user interface.
 
-## 🎹 How to Play
+## 🎮 How to Play
 
-1. **Click:** Use your mouse to click on any drum button (labeled `w`, `a`, `s`, `d`, `j`, `k`, `l`) to hear a drum sound.
-2. **Press Keys:** Press the corresponding keys on your keyboard to play the drum sounds.
+1. **Clone the Repository:**
 
-## 📦 How to Run the Project
+   ```bash
+   git clone https://github.com/yourusername/chess-game.git
+   cd chess-game
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/drum-kit.git
-cd drum-kit
