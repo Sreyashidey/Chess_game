@@ -14,11 +14,3 @@ This is a simple multiplayer chess game built with **Node.js** and **Socket.io**
 - **Socket.io:** Library for real-time web applications.
 - **HTML/CSS:** Frontend technologies for building the user interface.
 
-## 🎮 How to Play
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/SreyashiDey/chess-game.git
-   cd chess-game
-
